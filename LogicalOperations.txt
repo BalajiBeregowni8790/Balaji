@@ -1,6 +1,6 @@
 public void and()
 {
-    pass
+    return x&y;
 }
 public void or()
 {
