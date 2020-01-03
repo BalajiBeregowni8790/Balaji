@@ -12,5 +12,5 @@ public void not()
 }
 public void xor()
 {
-     pass
+     return x^y;
 }
