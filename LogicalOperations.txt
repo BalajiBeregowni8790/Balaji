@@ -4,7 +4,7 @@ public void and()
 }
 public void or()
 {
-     pass
+    return x|y;
 }
 public void not()
 {
