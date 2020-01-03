@@ -1,0 +1,16 @@
+public void and()
+{
+     return x&y;
+}
+public void or()
+{
+     pass
+}
+public void not()
+{
+     pass
+}
+public void xor()
+{
+     pass
+}
