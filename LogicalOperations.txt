@@ -8,7 +8,7 @@ public void or()
 }
 public void not()
 {
-     pass
+     return !x;
 }
 public void xor()
 {
